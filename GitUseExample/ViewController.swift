@@ -28,5 +28,3 @@ class ViewController: UIViewController {
 }
 
 
-// Test line
-
