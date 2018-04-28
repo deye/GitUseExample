@@ -13,6 +13,7 @@
 		E1071AAF209357F0001A4CBD /* GitUseExample.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E1071AAD209357F0001A4CBD /* GitUseExample.xcdatamodeld */; };
 		E1071AB1209357F0001A4CBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1071AB0209357F0001A4CBD /* Assets.xcassets */; };
 		E1071AB4209357F0001A4CBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1071AB2209357F0001A4CBD /* LaunchScreen.storyboard */; };
+		E11D8028209497A700033EF6 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11D8027209497A700033EF6 /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E1071AB0209357F0001A4CBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1071AB3209357F0001A4CBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E1071AB5209357F0001A4CBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E11D8027209497A700033EF6 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				E1071AA6209357F0001A4CBD /* AppDelegate.swift */,
+				E11D8027209497A700033EF6 /* MapForItinerary.swift */,
 				E1071AA8209357F0001A4CBD /* ViewController.swift */,
 				E1071AAA209357F0001A4CBD /* Main.storyboard */,
 				E1071AB0209357F0001A4CBD /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E11D8028209497A700033EF6 /* MapForItinerary.swift in Sources */,
 				E1071AA9209357F0001A4CBD /* ViewController.swift in Sources */,
 				E1071AAF209357F0001A4CBD /* GitUseExample.xcdatamodeld in Sources */,
 				E1071AA7209357F0001A4CBD /* AppDelegate.swift in Sources */,
